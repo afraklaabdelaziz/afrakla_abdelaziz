@@ -3,3 +3,5 @@ dans cet jour je connée mes camarades de class 1,et je connée comment commenic
 mon compte en github.
 09/11/2021:
 dans ce jour je connée la difrance entre centrale  VCS et distributed VCS et je connée les connée les commande de Git. 
+10/11/2021:
+on a fait un quiz pour testé notre niveau dans l'angage C et Git et Github.
