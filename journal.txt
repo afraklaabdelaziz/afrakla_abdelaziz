@@ -1,12 +1,18 @@
 08/11/2021:
-dans cet jour je connée mes camarades de class 1,et je connée comment commenicer avec les aurte,apré je cree   
+dans cet jour je connais mes camarades de class 1,et je connais comment commenicer avec les aurte,apré je cree   
 mon compte en github.
 09/11/2021:
-dans ce jour je connée la difrance entre centrale  VCS et distributed VCS et je connée les connée les commande de Git.
+dans ce jour je connée la difrance entre centrale  VCS et distributed VCS et je connais  les commandes de Git.
 en peut utilise github pour amelurer et souvgarder notre projet. 
 10/11/2021:
 on a fait un quiz pour testé notre niveau dans l'angage C et Git et Github.
 aprés nous avant etudié les variable en langage C.
 on fait le quiz pour tester notre niveau apropo de Git et Github.
 on utilise les variable dans langage C pour faciliter le travaillle de projet.
+11/11/2021
+dans ce jour ona contunuer pour terminer les challenges des variable en langage C.
+apres on a fait live coding avec mon squoade avec technique discord .
+cette technique permit de faire les lives coding avec mes camarades et je connais la maniére  de programation de chaqu'un.
+nous sons travailler les tchallenges de variable de langage C pour tester notre niveau apropo de variable en langage C.
+ 
 
