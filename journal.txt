@@ -14,5 +14,10 @@ dans ce jour ona contunuer pour terminer les challenges des variable en langage 
 apres on a fait live coding avec mon squoade avec technique discord .
 cette technique permit de faire les lives coding avec mes camarades et je connais la maniére  de programation de chaqu'un.
 nous sons travailler les tchallenges de variable de langage C pour tester notre niveau apropo de variable en langage C.
+12/11/2021:
+dans ce jour ona contunier  langage C (les condition) et ona fait documentation apropo des condition en langage C
+apree on a fais plusieur challenges pour testee notre niveau en les condition.
+a la fin de journer parmit des mes camarades de classe fait live coding.
+dans ce jour je connais les utilisation des condition en langage C.
  
 
