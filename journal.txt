@@ -19,5 +19,16 @@ dans ce jour ona contunier  langage C (les condition) et ona fait documentation 
 apree on a fais plusieur challenges pour testee notre niveau en les condition.
 a la fin de journer parmit des mes camarades de classe fait live coding.
 dans ce jour je connais les utilisation des condition en langage C.
+15/11/2021:
+ce jour ona terminer les challenge des condition et nous presentons a une presentation fait par  Président cofondateur Simplon
+Mr.Frédéric Bardeau dans une salle a youcode.
+apret on fait une quiz apropo des condition en langage C pour tester notre niveau.
+on peut utilise les condition pou separe entre les chous comme exemple un personne qui va passer un exame est habite loin de lotre lycee et ha2ir est ce que aprond taxi ou bus ou bien avec ces pied 
+si aprond taxi ou car il arrive dans le tempe sinon (avec ses pied) il arrive pus tard.  
+on utilse if... else pour separer les mineur et les majour dans une équipe par exemple.
+et on peut aussi utilise switch case ces condition pour cree par exemple une calculatrice.
+Mr frédéric presenter a nous plusieur information apropo de transomation numerique et il donne plusieur consielle a nous pour notre futur aprer nous terminons dans youcode
+et il donne motivation apropo de developement informatique car maintenant le monde demande les informaticien pour programer par exemple les robos.
+  
  
 
