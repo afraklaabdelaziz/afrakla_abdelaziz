@@ -29,6 +29,13 @@ on utilse if... else pour separer les mineur et les majour dans une équipe par 
 et on peut aussi utilise switch case ces condition pour cree par exemple une calculatrice.
 Mr frédéric presenter a nous plusieur information apropo de transomation numerique et il donne plusieur consielle a nous pour notre futur aprer nous terminons dans youcode
 et il donne motivation apropo de developement informatique car maintenant le monde demande les informaticien pour programer par exemple les robos.
-  
+16/11/2021:
+dans ce jour on fait live coding dans notre classe cette maniere est ifficase pour les tout car nous comparison notre code avec les code de mes camarades.
+apree un squad faire une bonne presentation apropo de l'algorithme.
+algoriyhme est une plusieurs d'instruction (operation elementaire) pour resudre une probleme .
+commme exemple le probleme de preparation d'une repat.
+l'algorithme permit de faciliter notre programme en quelle langage de programmation comme C...
+et on peut calcule la complexiter pour fair une mayeur programme.
+   
  
 
