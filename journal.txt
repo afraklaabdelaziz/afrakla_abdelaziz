@@ -29,13 +29,25 @@ on utilse if... else pour separer les mineur et les majour dans une équipe par 
 et on peut aussi utilise switch case ces condition pour cree par exemple une calculatrice.
 Mr frédéric presenter a nous plusieur information apropo de transomation numerique et il donne plusieur consielle a nous pour notre futur aprer nous terminons dans youcode
 et il donne motivation apropo de developement informatique car maintenant le monde demande les informaticien pour programer par exemple les robos.
-16/11/2021:
-dans ce jour on fait live coding dans notre classe cette maniere est ifficase pour les tout car nous comparison notre code avec les code de mes camarades.
-apree un squad faire une bonne presentation apropo de l'algorithme.
-algoriyhme est une plusieurs d'instruction (operation elementaire) pour resudre une probleme .
-commme exemple le probleme de preparation d'une repat.
+16/11/2021: 
+
+dans ce jour on a fait live coding dans notre classe cette maniere est efficace pour tout le monde car nous avons comparé notre code avec les codes de mes camarades.
+apree un squad faire une bonne presentation a propos de l'algorithme.
+algorithme est une plusieurs instructions (operation elementaire) pour resoudre un probleme .
+commme exemple le probleme de preparation d'un repas.
 l'algorithme permit de faciliter notre programme en quelle langage de programmation comme C...
-et on peut calcule la complexiter pour fair une mayeur programme.
+et on peut calcule la complexitée pour faire un bon programme.
+17/11/2021:
+dans ce jour on fait les challenges des boucle en langage C.(for - while).
+M.ouadid nous a bien expliquer coment sa marche l'algorithme de pyramide 
+cette maniert d'explication nous aidons pour transferer un complexe probleme a un simple probleme. 
+je ducumente un peut sur les boucles est je comprande le role des boucle comme bocle for while par exemple une instruction répite plusieur fois on utilise boucle for ou while pour simplifiée notre programme
+comme exemple un choufeur de train pour férmit les portes il fait plusieur instruction qui sont mémes.
+on peut utiliser les boucles quand il y a une instruction répite plusieur fois comme table de multiplication.  
+ 
+
+
+
    
  
 
