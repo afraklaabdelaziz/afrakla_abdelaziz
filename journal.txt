@@ -43,7 +43,14 @@ M.ouadid nous a bien expliquer coment sa marche l'algorithme de pyramide
 cette maniert d'explication nous aidons pour transferer un complexe probleme a un simple probleme. 
 je ducumente un peut sur les boucles est je comprande le role des boucle comme bocle for while par exemple une instruction répite plusieur fois on utilise boucle for ou while pour simplifiée notre programme
 comme exemple un choufeur de train pour férmit les portes il fait plusieur instruction qui sont mémes.
-on peut utiliser les boucles quand il y a une instruction répite plusieur fois comme table de multiplication.  
+on peut utiliser les boucles quand il y a une instruction répite plusieur fois comme table de multiplication.
+18/11/2021:
+ce jour nous avons fait les challenges des fonction en langage C (les autre progrmmme qui utiliser pour simpliciter notre programme principale).
+les fonction utiliser pour simplifier et simpliciter le programme principale comme exemple fonction pour franée une voiture dans un jeu. 
+apree on fait les tableaus (pour stoker par exemple les notes des etudiants).
+on peut utilise les tableaus pour stoker plusieur données de meme type.
+un exemple des fonction :
+on par exemple une jeu du voiture pour franer cette voiture en utilise un fonction de franner et on appel cette fonction en programme principale.
  
 
 
