@@ -51,6 +51,14 @@ apree on fait les tableaus (pour stoker par exemple les notes des etudiants).
 on peut utilise les tableaus pour stoker plusieur données de meme type.
 un exemple des fonction :
 on par exemple une jeu du voiture pour franer cette voiture en utilise un fonction de franner et on appel cette fonction en programme principale.
+22--24/11/2021:
+ce jour on a comansons le breif de sas .
+Mr tayeb fait une oresentation apropo des fichier et des structures des donnees.
+les fichier permit de sovgarde les donnees et on peut affiche ces donnees apree redemaration de programme.
+structure de donnees ensemblet plusieur type dans une seul type comme exemple un employe il y a plusieur type des variable comme nom prenom age on peut structurer tout ses variables d'une seul structure.
+23/11 :ce jour je termine le projet de sass .
+24/11: ce jour je fais les testes de mon projet et je fait quelque modification.
+
  
 
 
