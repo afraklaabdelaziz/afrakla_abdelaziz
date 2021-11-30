@@ -58,6 +58,15 @@ les fichier permit de sovgarde les donnees et on peut affiche ces donnees apree 
 structure de donnees ensemblet plusieur type dans une seul type comme exemple un employe il y a plusieur type des variable comme nom prenom age on peut structurer tout ses variables d'une seul structure.
 23/11 :ce jour je termine le projet de sass .
 24/11: ce jour je fais les testes de mon projet et je fait quelque modification.
+30/11/2021:
+apree sas on a rejoind youcode ce jour et on a fait les nouvelles squad apree notre formateur presente l'objectif de cette formation et les sprints de cette annee comme HTML CSS PHP..
+apree nous ducmentation apropo de defintion de internet et web et deference entre ses deux et comment internet fonction.
+internet est un ensembles des reseau liee entre eux avec cable ou sans cable avec un reteur.
+web ou World Wide Web consulté les pages des sites grace a navigateur via des ordinateur et des smartphone.
+internet est une uti qui les gens utilise toujour pour recherche par exemple facebook ...
+je utilise internet pour cherche les  sites web comme facebook les cours youtube ....
+ 
+ 
 
  
 
