@@ -65,6 +65,13 @@ internet est un ensembles des reseau liee entre eux avec cable ou sans cable ave
 web ou World Wide Web consulté les pages des sites grace a navigateur via des ordinateur et des smartphone.
 internet est une uti qui les gens utilise toujour pour recherche par exemple facebook ...
 je utilise internet pour cherche les  sites web comme facebook les cours youtube ....
+1/12/2021:
+ces  jour on fais les competances de l'annees 2022 de notre ecole youcode comme front-end et back-end d'une site web.
+2/12/2021:
+nous debutans par front-end d'une site (html+css).
+le formateur a partage avec nous un breif consernont html et css .
+on fais un quiz pour tester notre niveau apropo de web,internet,deferance entre ces deux,html et css.
+html permit de cree le cours d'une page web et CSS permit de fair un style a cette page web.
  
  
 
