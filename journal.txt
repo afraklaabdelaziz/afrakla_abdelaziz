@@ -72,6 +72,11 @@ nous debutans par front-end d'une site (html+css).
 le formateur a partage avec nous un breif consernont html et css .
 on fais un quiz pour tester notre niveau apropo de web,internet,deferance entre ces deux,html et css.
 html permit de cree le cours d'une page web et CSS permit de fair un style a cette page web.
+6/12/2021:
+ce jour je termine le brief 2 et  je documente sur la recursivitee pour fair site visible pour mobile et desctop.
+apree on fais quiz apropo de HTML et CSS pour tester notre niveau.
+notre squad fais un test pour coureger les faux de tout les nombres de squad cette manier permit de amuleurer le niveau de squad et on coreger les fautes des elements de squad.
+je comprede comment faire une site recucsive.
  
  
 
