@@ -101,6 +101,12 @@ ce jour ona tarvaille sur le brief 6 fair une site web de invitation et ce breif
 notre squad comprende le breif et ona decoper les tache quelqu'un a une tache a faire.
 et ona decomantons sur comment fonctionee github flow utile de tavaille en group .
 le travaille en group simplifier les travailles des projet par exemple le projet indevidul dans 5jours fair on equipe dans 1jour.
+15/12/2021:
+ce jour on fait CME et notre squad presente sujet programmation et programmation au maroc historique les avantages et les incovineint.
+apree un camarade faire presentation comment fonctionee l workflow github flow pour travailleer en groupe sur un projet.
+apree notre squad fair un exemple de travalle en groupe sur un projet on utilise github flow.
+cette maniere aide les devlopeur pour travailler en groupe et decouper les etape d'un projet. 
+
 
 
  
