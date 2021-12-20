@@ -105,7 +105,11 @@ le travaille en group simplifier les travailles des projet par exemple le projet
 ce jour on fait CME et notre squad presente sujet programmation et programmation au maroc historique les avantages et les incovineint.
 apree un camarade faire presentation comment fonctionee l workflow github flow pour travailleer en groupe sur un projet.
 apree notre squad fair un exemple de travalle en groupe sur un projet on utilise github flow.
-cette maniere aide les devlopeur pour travailler en groupe et decouper les etape d'un projet. 
+cette maniere aide les devlopeur pour travailler en groupe et decouper les etape d'un projet.
+20/12/2021:
+ce jour ona terminer le projet partait axisibilite et validation de html dant w3c.
+apres on fait quiz apropo de premier sprint pour tester notre niveau apropo de tout le sprint.
+apres le formateur fait un presentation de competition de projet restaurant de youcode.  
 
 
 
