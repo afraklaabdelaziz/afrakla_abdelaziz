@@ -110,6 +110,10 @@ cette maniere aide les devlopeur pour travailler en groupe et decouper les etape
 ce jour ona terminer le projet partait axisibilite et validation de html dant w3c.
 apres on fait quiz apropo de premier sprint pour tester notre niveau apropo de tout le sprint.
 apres le formateur fait un presentation de competition de projet restaurant de youcode.  
+21/12/2021:
+ce jour ona fais seance de CME ona fais comment presentee nous devant d'un entertient.
+apree un camarade fait un presebntation apropo de flexbox que utilise dans css pour  eviiter margin et padding.
+flex aussi obtimise le code et aide les devlopeurs dans partaie responsive.
 
 
 
